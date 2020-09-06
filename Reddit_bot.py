@@ -1,5 +1,5 @@
-secret = 'AzeXYjJ5JiRATg_1NU5V31u4WS8'
-ID = 'HblZI_4KTr2kKA'
+secret = '**'
+ID = '**'
 import praw
 # a reddit instance
 reddit = praw.Reddit(client_id='**',
